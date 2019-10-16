@@ -3,15 +3,15 @@ Empty Shelf detection in supermarket and send details
 
 The following steps are given to run this :
  1. Installations : 
-  1. tensorflow
-  2. opencv
-  3. os
-  4. numpy
-  5. matplotlib
-  6. random
-  7. pickle
-  8. pytesseract
-  9. smtplib
+  a. tensorflow
+  b. opencv
+  c. os
+  d. numpy
+  e. matplotlib
+  f. random
+  g. pickle
+  h. pytesseract
+  i. smtplib
  2. You can skip step 3 and 4 , because the data have stored in pickle form.
  3. Download the training data from this link: https://1drv.ms/u/s!AtGLZaD3uwaBgdZguP0aYaG1sY2oOA?e=KiqKwR
  4. Separate empty And not empty photos and save them if Data/Empty and Data/NotEmpty directory.
